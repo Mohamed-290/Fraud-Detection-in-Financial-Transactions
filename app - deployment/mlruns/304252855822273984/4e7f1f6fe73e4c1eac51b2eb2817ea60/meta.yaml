@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP%20EliteBook/Downloads/Fraud%20Detection/Fraud%20Detection/app2/mlruns/304252855822273984/4e7f1f6fe73e4c1eac51b2eb2817ea60/artifacts
+end_time: 1729085193567
+entry_point_name: ''
+experiment_id: '304252855822273984'
+lifecycle_stage: active
+run_id: 4e7f1f6fe73e4c1eac51b2eb2817ea60
+run_name: loud-shoat-468
+run_uuid: 4e7f1f6fe73e4c1eac51b2eb2817ea60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729085116425
+status: 3
+tags: []
+user_id: HP EliteBook

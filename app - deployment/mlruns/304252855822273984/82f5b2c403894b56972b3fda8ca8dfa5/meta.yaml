@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP%20EliteBook/Downloads/Fraud%20Detection/Fraud%20Detection/app2/mlruns/304252855822273984/82f5b2c403894b56972b3fda8ca8dfa5/artifacts
+end_time: 1729085728874
+entry_point_name: ''
+experiment_id: '304252855822273984'
+lifecycle_stage: active
+run_id: 82f5b2c403894b56972b3fda8ca8dfa5
+run_name: redolent-sponge-161
+run_uuid: 82f5b2c403894b56972b3fda8ca8dfa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729085653469
+status: 3
+tags: []
+user_id: HP EliteBook
