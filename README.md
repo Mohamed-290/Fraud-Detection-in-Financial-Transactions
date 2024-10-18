@@ -3,42 +3,42 @@
 
 ## Project Plan :
 
-Week 1: Data Collection and Preprocessing :-
+### Week 1: Data Collection and Preprocessing :-
 
 * Data Collection: Obtain financial transaction data, including labeled fraudulent and non-fraudulent transactions.
 * Data Preprocessing: Clean and preprocess the data, addressing missingvalues and normalizing features.
 
 Tasks :
 
-* Tools: Python (Pandas, NumPy).
+*Tools: Python (Pandas, NumPy).
 
-• Deliverables:
+•Deliverables:
 o Cleaned and preprocessed dataset.
 o Data preprocessing notebook.
 
 
-Week 2: Statistical Analysis and Machine Learning :-
+### Week 2: Statistical Analysis and Machine Learning :-
 
 * Statistical Analysis: Perform statistical analysis to understand thedistribution of fraud-related features.
 * Machine Learning: Develop and evaluate classification models for frauddetection (e.g., Logistic Regression, Random Forest).
 
 Tasks :
 
-* Tools: Python (Scikit-learn, Statsmodels).
+*Tools: Python (Scikit-learn, Statsmodels).
 
 • Deliverables:
 o Statistical analysis report.
 o Fraud detection models and performance metrics.
 
 
-Week 3: Advanced Techniques :-
+### Week 3: Advanced Techniques :-
 
 * NLP for Transaction Notes: Apply NLP techniques to analyze transaction descriptions or notes.
 
 
 Tasks :
 
-Tools: Python (NLTK, SpaCy).
+*Tools: Python (NLTK, SpaCy).
 
 • Deliverables:
 o Enhanced fraud detection model with NLP integration.
